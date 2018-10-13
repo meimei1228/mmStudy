@@ -1,5 +1,0 @@
-测试文件0
-
-local modify 1
-
-git push origin dev:master	// 推送本地dev分支到远程master分支
